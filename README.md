@@ -30,6 +30,12 @@ Actualmente:
 
 ## 💼 Experiencia y habilidades
 
+- Desarrollo de consultas complejas en SQL (JOINs, subqueries, CTEs, agregaciones).
+- Construcción de dashboards ejecutivos en Power BI.
+- Modelado de datos y creación de medidas en DAX.
+- Limpieza y transformación de datos con Power Query.
+- Análisis de KPIs financieros y operativos.
+
 ### 📊 Herramientas & Tecnologías
 <p align="center">
   <img src="https://skillicons.dev/icons?i=sql,powerbi,excel,python,github,vscode" alt="tech stack">
@@ -53,6 +59,14 @@ Si quieres hablar de datos, BI o colaboración técnica:
 ---
 
 ## 📈 Estadísticas
+
+- Estadística descriptiva 
+- Segmentación y análisis comparativo.
+- Correlación y análisis de tendencias.
+- Análisis de series de tiempo básicas (variaciones mensuales, crecimiento %).
+- Muestreo y validación de datos.
+
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CristianJR79&theme=dark&show_icons=true&count_private=true" width="45%"/>
