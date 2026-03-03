@@ -3,7 +3,7 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hola 👋, Soy Cristian Felipe</h1></summary>
+    <summary><h1 style="display: inline-block">Hola 👋, Soy Cristian Jimenez</h1></summary>
   </ul>
 </div>
 
@@ -27,8 +27,8 @@
 - 🧠 Interesado en **modelado de datos, KPIs, dashboards ejecutivos y automatización**
 - ☁️ Explorando herramientas en la nube para análisis y almacenamiento de datos
 - 💬 Pregúntame sobre **consultas SQL, métricas de negocio, análisis financiero y dashboards**
-- 📫 Contacto: **(aquí agregas tu correo profesional)**
-- 🔗 LinkedIn: (aquí agregas tu link)
+- 📫 Contacto: **(cjtan182@gmail.com)**
+- 🔗 LinkedIn: (in/cristianfelipejimenezrubio)
 
 <!--Intro end-->
 
