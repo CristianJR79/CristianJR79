@@ -74,7 +74,7 @@
 Power BI | Excel  | Python | DAX | SQL Server 
 
 ### 📈 Enfoque Profesional
-Análisis Financiero | KPIs | Control de Cartera | Optimización de Procesos | ETL
+Análisis Financiero | KPIs | Control de Cartera | Optimización de Procesos 
 
 </div>
 
