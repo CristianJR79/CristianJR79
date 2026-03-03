@@ -35,7 +35,7 @@ Actualmente:
   <img src="https://skillicons.dev/icons?i=sql,powerbi,excel,python,github,vscode" alt="tech stack">
 </p>
 
-- **Lenguajes:** SQL, Python básico  
+- **Lenguajes:** SQL, Python básico, Excel, Google cloud
 - **BI & Analítica:** Power BI, DAX, Power Query, Excel avanzado  
 - **DB & DataOps:** SQL Server  
 - **Control y procesos:** gestión de cartera, facturación, reporting
